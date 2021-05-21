@@ -1,6 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
-[Link to check out our deployed application!](https://robs-employee-directory.herokuapp.com/)
+[Check out the deployed application!](https://robs-employee-directory.herokuapp.com/)
 
 ## Overview
 
