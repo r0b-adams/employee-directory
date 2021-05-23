@@ -2,9 +2,9 @@
 
 [Check out the deployed application!](https://robs-employee-directory.herokuapp.com/)
 
-## Overview
+## Description
 
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+React app that lets a user sort a table of employees by various categories, or filter by text. This project was a good introduction to component state and passing event listeners down to children components via props.
 
 ## User Story
 
