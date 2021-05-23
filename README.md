@@ -1,4 +1,4 @@
-# Unit 19 React Homework: Employee Directory
+Employee Directory
 
 [Check out the deployed application!](https://robs-employee-directory.herokuapp.com/)
 
