@@ -108,7 +108,7 @@ class DataContainer extends React.Component {
   // The render method returns the JSX that should be rendered
   render() {
     return (
-      <div>
+      <section className="flex-data">
 
         {/* this input field updates the filtered array by last name */}
         <input
@@ -124,7 +124,7 @@ class DataContainer extends React.Component {
         employees={this.state.filteredEmployees}
         sortBy={this.sortBy}
        />
-      </div>
+      </section>
     );
   }
 }
