@@ -1,25 +1,28 @@
+ [![MIT](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 # Employee Directory
-
-[Check out the deployed application!](https://robs-employee-directory.herokuapp.com/)
 
 ## Description
 
 React app that lets a user sort a table of employees by various categories, or filter by text. This project was a good introduction to component state and passing event listeners down to children components via props.
 
-## User Story
+[Check out the deployed application!](https://robs-employee-directory.herokuapp.com/)
 
-* As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+[![link to video](./emp-dir.gif)](https://robs-employee-directory.herokuapp.com/)
 
-## Business Context
+## Table of Contents
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+- [Contributing](#Contributing)
+- [Questions](#Questions)
+- [License](#License)
 
-## Acceptance Criteria
+## Questions
 
-Given a table of random users generated from the [Random User API](https://randomuser.me/), when the user loads the page, a table of employees should render. 
+Questions? Reach out to me:
 
-The user should be able to:
+GitHub: [comatosino](https://github.com/comatosino)
 
-  * Sort the table by at least one category
+Email: adamsiii.robert@gmail.com
 
-  * Filter the users by at least one property.
+## License
+    
+This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
